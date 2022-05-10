@@ -1,4 +1,4 @@
-// This is a sample test class.
+// This is a sample test.
 package org.ssglobal.training.codes.io;
 
 import java.io.File;
